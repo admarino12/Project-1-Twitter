@@ -1,0 +1,33 @@
+body {
+  background-color: #7986CB;
+}
+.project {
+  text-align: center;
+  color: #F9FF4A;
+}
+.signout {
+  float: right;
+padding: 10px;
+}
+.tweettitle {
+  text-align: center;
+}
+.inputcss {
+  text-align: center;
+}
+.tweetcss {
+  text-align: center;
+  font-family: calibri;
+  text-size: 16px;
+}
+.addtweetcss {
+  width: 500px;
+  height: 100px;
+}
+.tweets {
+  text-align: center;
+}
+.tableclass {
+  text-align: center;
+  margin: center;
+}
